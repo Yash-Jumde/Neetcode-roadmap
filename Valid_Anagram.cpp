@@ -1,4 +1,6 @@
-// Question : Valid Anagram
+//Concept: Hashing
+
+// Question : 242. Valid Anagram
 
 class Solution {
 public:
